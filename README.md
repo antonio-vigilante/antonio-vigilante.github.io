@@ -3,7 +3,7 @@ Sono Antonio Vigilante, e questa è la pagina per accedere ad alcuni progetti ch
 ### _dharma
 
 Ho dedicato al Buddhismo due libri: _La luna nell'acqua. Una mappa per perdersi nel Dharma del Buddha_ (Tethis, Torino 2019) e _Le dimore leggere. Saggio sull'etica buddhista_ (Petite Plaisance, Pistoia 2021).
-_dharma_ raccoglie, oltre alla versione digitale del primo dei due libri, traduzioni e analisi dei sutra e riflessioni sul Dharma.
+_Dharma_ raccoglie, oltre alla versione digitale del primo dei due libri, traduzioni e analisi dei sutra e riflessioni sul Buddhismo.
 
 ### _de rerum natura
 
@@ -11,3 +11,4 @@ Ho cominciato a tradurre Licrezio in endecasillabi a diciotto anni, in una estat
 
 ### _nessi
 
+Sono convinto dell'importanza che i docenti creino materiale didattico ad accesso libero. _Nessi_ è il cantiere di un manuale ad accesso libero di Scienze Umane, per il Liceo delle Scienze Umane, il Liceo Economico-Sociale e chiunque abbia interesse per le Scienze Umane.
