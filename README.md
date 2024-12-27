@@ -17,4 +17,4 @@ Sono convinto dell'importanza che i docenti creino materiale didattico ad access
  _Questo cos'è?_ è la domanda che mi rivolge cento volte al giorno mio figlio Ermes. È la domanda che è dietro quasi tutto quello che leggo e scrivo. 
  
 ✉️ antoniovigilante@autistici.org
-Il mio blog è [Attraversamenti](http://www.attraversamenti.info)
+📄 [Attraversamenti](http://www.attraversamenti.info)
