@@ -1,12 +1,13 @@
-Dunque sei qui. Questo spazio non aspira alla pubblicità. Se ci sei, è perché mi conosci, o hai interessi affini ai miei. E dunque: benvenuta-o. Sono Antonio Vigilante, e questa è la pagina per accedere ad alcuni progetti che sto sviluppando su GitHub:
+Dunque sei qui. Questo spazio non aspira alla pubblicità. Se ci sei è perché mi conosci o hai interessi affini ai miei. E dunque: benvenuta-o. Sono Antonio Vigilante, e questa è la pagina per accedere ad alcuni progetti che sto sviluppando su GitHub:
 
 ### _dharma
 
 Ho dedicato al Buddhismo due libri: _La luna nell'acqua. Una mappa per perdersi nel Dharma del Buddha_ (Tethis, Torino 2019) e _Le dimore leggere. Saggio sull'etica buddhista_ (Petite Plaisance, Pistoia 2021).
-_Dharma_ raccoglie traduzioni e analisi dei sutra e riflessioni.
+_dharma_ raccoglie, oltre alla versione digitale del primo dei due libri, traduzioni e analisi dei sutra e riflessioni sul Dharma.
 
 ### _de rerum natura
-La mia traduzione in endecasillabi del _Ds Rerum Natura_ di Lucrezio. 
-[[vai]](https://antonio-vigilante.github.io/lucrezio/)
+
+Ho cominciato a tradurre Licrezio in endecasillabi a diciotto anni, in una estate febbrile. Si trattava, allora, di una sorta di apprendistato poetico: traducendo, entravo a fondo nell'opera di un grande poeta e al tempo stesso imparavo a padroneggiare l'endecasillabo (magari per farne poi a meno). Quella prima traduzione è stata inghiottita da una di quelle bocche del nulla che quotidianamente si aprono qua e là. Da qualche tempo ho ripreso. Ancora in endecasillabi. [Qui i primi due libri](https://antonio-vigilante.github.io/lucrezio/)
 
 ### _nessi
+
