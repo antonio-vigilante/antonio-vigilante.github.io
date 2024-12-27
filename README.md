@@ -1,6 +1,4 @@
-![](ponteallospino.jpg)
-
-Questo sito raccoglie i miei progetti 
+### Un 
 
 ## Dharma
 
@@ -9,4 +7,4 @@ _Dharma_ raccoglie traduzioni e analisi dei sutra e riflessioni.
 
 ## Il De Rerum Natura
 La mia traduzione in endecasillabi del _Ds Rerum Natura_ di Lucrezio. 
-[vai](antonio-vigilante.github.io/lucrezio)
+[[vai]](https://antonio-vigilante.github.io/lucrezio/)
