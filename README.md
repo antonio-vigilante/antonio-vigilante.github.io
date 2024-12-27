@@ -1,4 +1,4 @@
-Dunque sei qui. Questo spazio non aspira alla pubblicità. Se ci sei è perché mi conosci o hai interessi affini ai miei. E dunque: benvenuta-o. Sono Antonio Vigilante, e questa è la pagina per accedere ad alcuni progetti che sto sviluppando su GitHub:
+Sono Antonio Vigilante, e questa è la pagina per accedere ad alcuni progetti che sto sviluppando su GitHub:
 
 ### _dharma
 
