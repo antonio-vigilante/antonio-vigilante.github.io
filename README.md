@@ -11,7 +11,7 @@ Ho cominciato a tradurre Lucrezio in endecasillabi a diciotto anni, in una estat
 
 ### _nessi
 
-Sono convinto dell'importanza che i docenti creino materiale didattico ad accesso libero. _Nessi_ è il cantiere di un manuale ad accesso libero di Scienze Umane, per il Liceo delle Scienze Umane, il Liceo Economico-Sociale e chiunque abbia interesse per le Scienze Umane.
+Sono convinto dell'importanza che i docenti creino materiale didattico ad accesso libero. _Nessi_ è il cantiere di un manuale ad accesso libero di Scienze Umane, per il Liceo delle Scienze Umane, il Liceo Economico-Sociale e chiunque abbia interesse per le Scienze Umane. ▶️ [Vai al progetto](https://antonio-vigilante.github.io/nessi/)
 
 ---
  _Questo cos'è?_ è la domanda che mi rivolge cento volte al giorno mio figlio Ermes. È la domanda che è dietro quasi tutto quello che leggo e scrivo. 
