@@ -1,9 +1,9 @@
 Sono Antonio Vigilante, e questa è la pagina per accedere ad alcuni progetti che sto sviluppando su GitHub.
 
-### _paryesana
+### _pariyesana
 
 Ho dedicato al Buddhismo due libri: _La luna nell'acqua. Una mappa per perdersi nel Dharma del Buddha_ (Tethis, Torino 2019) e _Le dimore leggere. Saggio sull'etica buddhista_ (Petite Plaisance, Pistoia 2021).
-_Paryesana_ raccoglie, oltre alla versione digitale del primo dei due libri, traduzioni e analisi dei sutra e riflessioni sul Buddhismo. ▶️ [Vai al progetto](https://antonio-vigilante.github.io/paryesana/)
+_Paryesana_ raccoglie, oltre alla versione digitale del primo dei due libri, traduzioni e analisi dei sutra e riflessioni sul Buddhismo. ▶️ [Vai al progetto](https://antonio-vigilante.github.io/pariyesana/)
 
 ### _de rerum natura
 
