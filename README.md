@@ -22,4 +22,6 @@ Sono convinto dell'importanza che i docenti creino materiale didattico ad access
 
 📄 [Attraversamenti](http://www.attraversamenti.info)
 
-![](mastodon.png) @antoniovigilante@poliversity.it
+@antoniovigilante@poliversity.it
+
+
