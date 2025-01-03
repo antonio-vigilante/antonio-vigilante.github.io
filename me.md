@@ -8,5 +8,8 @@ Il nostro aggregato non getta volentieri uno sguardo nella sua infanzia. Gli giu
 
 Della scuola ricorda soprattutto l'imbarazzo. Vi era giunto con qualche mese di ritardo, per via dei suoi problemi di salute; e senza molta esperienza di cose scolastiche, perché la malattia l'aveva salvato dall'asilo (il ricordo del tamburellare piovoso viene da uno dei pochi giorni di frequenza). Ricorda di aver battuto la testa contro la finestra, e di essersi vergognato come mai prima. Di essersi sentito estraneo e di volersi nascondere; ma non c'era posto in cui nascondersi. Ricorda anche, però, una maestra buona - la seconda persona gentile incontrata nella sua vita, forse - che leggeva _Zanna bianca_, e lui all'ultimo banco ascoltava rapito. Comprendendo per la prima volta la bellezza di ficcare il naso e la mente dentro a un libro.
 
-Andò via, la maestra, a Bologna, chiamata chissà da cosa o da chi. Possibile che fosse bolognese, finita chissà come a Foggia? 
+Andò via, la maestra, a Bologna, chiamata chissà da cosa o da chi. Possibile che fosse bolognese, finita chissà come a Foggia? Tornò a trovare i suoi ex studenti, l'anno dopo. E il nostro piccolo aggregato si imaginava che, essendo lei così importante per lui, anche lui lo sarebbe stato per lei; e lei l'avrebbe salutato con particolare affetto o, non potendo mostrare una così inopportuna predilezione, con qualche segno d'intesa ben chiaro, benché invisibile agli altri. Nulla, invece; e molto se ne addolorò. 
+
+Due talenti aveva, il piccolo ATAV. Sapeva recitare e sapeva disegnare. Lo vediamo alla recita di fine anno, imprigionato in una pelliccia che lo soffoca, poiché gli è toccato il ruolo dell'eschimese. Sarà l'ultimo suo ruolo. 
+
 
