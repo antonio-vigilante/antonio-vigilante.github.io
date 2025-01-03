@@ -14,6 +14,7 @@ Due talenti aveva, il piccolo ATAV. Sapeva recitare e sapeva disegnare. Lo vedia
 
 Il piccolo aggregato temporaneo era, infatti, pio. In difficoltà con sé stesso e con gli altri, si rifugiava in questo mondo di divinità o semidivinità piangenti e addolorate, che erano per lui l'immagine stessa del bene e del vero. Temeva la dannazione. Quella eterna, ma anche quella mondana, che si manifestava nei corridoi della scuola elementae "Nicola Parisi": e aveva il cranio rasato e lo sguardo perso dei bambini del Collegio. Era a due passi dal casa sua, il Collegio. A ripensare a posteriori all'aspetto di quei bambini, pare che fosse più un campo di concentramento che un collegio. Come erano finiti in quelle condizioni? Cosa era stato fatto loro? Poiché la madre del piccolo aggregato temporaneo lo minacciava, quando faceva cose che non le aggradavano, di farlo rinchiudere nel Collegio, nella sua piccola mente le cose si fecero chiare: erano puniti così per aver fatto il male. E dunque bisognava abbarbicarsi al bene. E il bene erano la Madonna, e Santa Lucia, e Santa Maddalena. Deh, salvate l'anima mia! Deh, tenetemi lontano dal Collegio!
 
+Ha quasi dieci anni quando accade l'inciampo. Un bimbo cade in un pozzo. Resta lì, sospeso. In pericolo di vita. Ma si può salvare, si salverà: tutta l'Italia accorre
 
 
 
