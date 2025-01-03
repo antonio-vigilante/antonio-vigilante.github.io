@@ -13,3 +13,6 @@ Andò via, la maestra, a Bologna, chiamata chissà da cosa o da chi. Possibile c
 Due talenti aveva, il piccolo ATAV. Sapeva recitare e sapeva disegnare. Lo vediamo alla recita di fine anno, imprigionato in una pelliccia che lo soffoca, poiché gli è toccato il ruolo dell'eschimese. Sarà l'ultimo suo ruolo. 
 
 
+//Prese il suo posto un orco, o poco meno. Il Maestro dotato di bacchetta, un uomo triste che intristiva tutti. Un giorno - non sapeva le città lombarde - picchiò forte sulle mani il nostro amico davanti ai compagni. E fremeva di rabbia e di impotenza, lì accanto alla cattedra, umiliato come un nulla, anzi peggio: come uno che non dovrebbe stare tra le cose di questo mondo.//
+
+
