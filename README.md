@@ -1,4 +1,8 @@
->"Ricordati che non è un disonore smarrirsi nell'immensa foresta della vita." (Janusz Korczak)
+<link rel="stylesheet" href="./assets/style.css">
+
+<div class="callout">
+"Ricordati che non è un disonore smarrirsi nell'immensa foresta della vita." (Janusz Korczak)
+</div>
 
 Sono Antonio Vigilante, e questa è la pagina per accedere ad alcuni progetti che sto sviluppando su GitHub.
 
