@@ -1,7 +1,5 @@
 >"Ricordati che non è un disonore smarrirsi nell'immensa foresta della vita." (Janusz Korczak)
 
-![](temple.JPG) 
-
 Sono Antonio Vigilante, e questa è la pagina per accedere ad alcuni progetti che sto sviluppando su GitHub.
 
 ### Svaha!
