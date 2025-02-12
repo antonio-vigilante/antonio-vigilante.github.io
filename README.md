@@ -27,7 +27,7 @@ Sono convinto dell'importanza che i docenti creino materiale didattico ad access
 <a href="https://antonio-vigilante.github.io/nessi" class="button orange">Vai</a>
 
 ---
- _Questo cos'è?_ è la domanda che mi rivolge cento volte al giorno mio figlio Ermes. Per lo più non so rispondere.
+ _Questo cos'è?_ è la domanda che mi rivolge cento volte al giorno mio figlio Ermes. Per lo più non so rispondere. (किंतु: तत् त्वं असि)
  
 ✉️ antoniovigilante@autistici.org
 
