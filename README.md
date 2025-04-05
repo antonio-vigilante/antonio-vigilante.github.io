@@ -13,7 +13,7 @@
 
 🤔 <a href="https://antonio-vigilante.github.io/filosofia">Strumenti e pratiche per la didattica della filosofia</a> 
 
-🧩 <a href="https://antonio-vigilante.github.io/svaha/">Nessi</a> 
+🧩 <a href="https://antonio-vigilante.github.io/nessi/">Nessi</a> 
 
 <p></p>  
 
