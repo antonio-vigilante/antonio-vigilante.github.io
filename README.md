@@ -5,7 +5,13 @@
 </div>
 <p></p>
 
-<a href="https://antonio-vigilante.github.io/ego">Ego</a> / <a href="https://antonio-vigilante.github.io/svaha/">Svaha!</a> / <a href="https://antonio-vigilante.github.io/lucrezio">De Rerum Natura</a> / <a href="https://antonio-vigilante.github.io/filosofia">Strumenti e pratiche per la didattica della filosofia</a> / <a href="https://antonio-vigilante.github.io/nessi/">Nessi</a> 
+[Svaha!](https://antonio-vigilante.github.io/svaha/) | Il testo integrale del mio libro _La luna nell'acqua. Una mappa per perdersi nel Dharma del Buddha_ (Tethis, Torino 2019), più qualche approfonimento.
+
+[De Rerum Natura](https://antonio-vigilante.github.io/lucrezio) | La mia traduzione (in corso) endecasillabi del poema di Lucrezio. 
+
+[Strumenti e pratiche per la didattica della filosofia](https://antonio-vigilante.github.io/filosofia) | Repository legato all'insegnamento di _Esercitazioni di didattica della filosofia_ presso l'Università di Siena.
+
+[Nessi](https://antonio-vigilante.github.io/nessi/) | Primi passi per un manuale di Scienze Umane ad accesso aperto.
 
 <p></p>  
 
