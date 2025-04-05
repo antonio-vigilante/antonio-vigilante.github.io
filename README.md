@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="./assets/style.css">
 
-<div class="info-box">
+<div class="callout-orange">
 "Ricordati che non è un disonore smarrirsi nell'immensa foresta della vita." (Janusz Korczak)
 </div>
 <p></p>
