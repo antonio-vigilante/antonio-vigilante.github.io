@@ -1,5 +1,7 @@
 <link rel="stylesheet" href="./assets/style.css">
 
+# antonio-vigilante.github
+
 <div class="callout">
 "Ricordati che non è un disonore smarrirsi nell'immensa foresta della vita." (Janusz Korczak)
 </div>
@@ -16,12 +18,7 @@
 <p></p>  
 
 ---
- _Questo cos'è?_ è la domanda che mi rivolge cento volte al giorno mio figlio Ermes. Per lo più non so rispondere. (किंतु: तत् त्वं असि)
- 
-📧 antoniovigilante@autistici.org
-
-🏷 [Attraversamenti](http://www.attraversamenti.info)
-
-@antoniovigilante@poliversity.it
+  
+📧 antoniovigilante@autistici.org  🌐 [Attraversamenti](http://www.attraversamenti.info)   🐘 @antoniovigilante@poliversity.it
 
 
