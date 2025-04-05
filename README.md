@@ -21,6 +21,6 @@
   
 📧 antoniovigilante@autistici.org  
 🌐 [Attraversamenti](http://www.attraversamenti.info)   
-🐘 [@antoniovigilante@poliversity.it](https://poliversity.it/@antoniovigilante)
-
+🐘 [@antoniovigilante@poliversity.it](https://poliversity.it/@antoniovigilante)  
+🦋 [@naciketas.bsky.social](https://bsky.app/profile/naciketas.bsky.social)
 
