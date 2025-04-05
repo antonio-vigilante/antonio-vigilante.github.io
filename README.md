@@ -1,6 +1,5 @@
 <link rel="stylesheet" href="./assets/style.css">
 
-# antonio-vigilante.github
 
 <div class="callout">
 "Ricordati che non è un disonore smarrirsi nell'immensa foresta della vita." (Janusz Korczak)
@@ -19,6 +18,8 @@
 
 ---
   
-📧 antoniovigilante@autistici.org  🌐 [Attraversamenti](http://www.attraversamenti.info)   🐘 @antoniovigilante@poliversity.it
+📧 antoniovigilante@autistici.org  
+🌐 [Attraversamenti](http://www.attraversamenti.info)   
+🐘 @antoniovigilante@poliversity.it
 
 
