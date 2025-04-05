@@ -5,7 +5,14 @@
 </div>
 <p></p>
 
-👤 <a href="https://antonio-vigilante.github.io/ego">Ego</a> ☸️ <a href="https://antonio-vigilante.github.io/svaha/">Svaha!</a> 🌿 <a href="https://antonio-vigilante.github.io/lucrezio">De Rerum Natura</a> 🤔 <a href="https://antonio-vigilante.github.io/filosofia">Strumenti e pratiche per la didattica della filosofia</a> 
+👤 <a href="https://antonio-vigilante.github.io/ego">Ego</a>
+
+☸️ <a href="https://antonio-vigilante.github.io/svaha/">Svaha!</a> 
+
+🌿 <a href="https://antonio-vigilante.github.io/lucrezio">De Rerum Natura</a> 
+
+🤔 <a href="https://antonio-vigilante.github.io/filosofia">Strumenti e pratiche per la didattica della filosofia</a> 
+
 🧩 <a href="https://antonio-vigilante.github.io/svaha/">Nessi</a> 
 
 <p></p>  
