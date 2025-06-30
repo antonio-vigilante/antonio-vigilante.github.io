@@ -11,8 +11,6 @@
 
 📁 [De Rerum Natura](https://antonio-vigilante.github.io/lucrezio)  La mia traduzione in endecasillabi (in corso) del poema di Lucrezio. 
 
-📁 [Senza cattedra](https://antonio-vigilante.github.io/senzacattedra) Un libro sulla scuola, che nasce qui un capitolo dopo l'altro.
-
 📁 [Strumenti e pratiche per la didattica della filosofia](https://antonio-vigilante.github.io/filosofia)  Repository legato all'insegnamento di _Esercitazioni di didattica della filosofia_ presso l'Università di Siena.
 
 📁 [Nessi](https://antonio-vigilante.github.io/nessi/)  Primi passi per un manuale di Scienze Umane ad accesso aperto.
